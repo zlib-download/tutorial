@@ -13,7 +13,7 @@ title: zlibrary download tutorial
 
 ##  OFFICIAL
 
-![](./wbds5jaenp1a1.webp) 
+![](./tor.png) 
 
 ### TOR
 
