@@ -1,7 +1,6 @@
 site_name: zlibrary download tutorial
 theme:
   name: material
-  custom_dir: overrides
   language: en
   features:
     - toc.integrate
