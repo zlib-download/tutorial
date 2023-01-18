@@ -1,27 +1,16 @@
-
-
-
-
 !!! warning
 
-    **These sites are not to be trusted:**zlib . is
-
-    zlib . to
-
-    zlibrary . to
-
-    zlibrary . is
-
-    z-lib . is
-
-    z-lib . to
+    **These sites are not to be trusted:** zlib.is,zlib.to,zlibrary.to,zlibrary.is,z-lib.is,z-lib.to
 
     If you’ve donated to any of the sites above, call the bank to request a chargeback as they use Stripe for processi
 
 
+##  OFFICIAL
 
+![](./wbds5jaenp1a1.webp) 
 
-###  OFFICIAL
+### TOR
+
 **How to access zLibrary through TOR:**
 
 1. Download the TOR app
@@ -33,21 +22,8 @@
 
 If you cannot access, use [https://annas-archive.org/](https://annas-archive.org/) which is a scraper of LibGen and zLibrary.
 
-\------------------------------------------------------------------------------------------------------
 
-**How to access zLibrary and Telegram bot through iOS:**
-
-[https://www.reddit.com/r/zlibrary/comments/ym6zii/workaround\_for\_ios\_users\_bonus\_for\_telegram\_users/](https://www.reddit.com/r/zlibrary/comments/ym6zii/workaround_for_ios_users_bonus_for_telegram_users/)
-
-[https://t.me/zlib\_basic\_bot](https://t.me/zlib_basic_bot)
-
-\------------------------------------------------------------------------------------------------------
-
-**A helpful visual diagram:**
-
-[https://www.reddit.com/r/zlibrary/comments/z2qhwa/workflows\_how\_to\_connect\_to\_zlib\_via\_browser/?utm\_source=share&utm\_medium=ios\_app&utm\_name=iossmf](https://www.reddit.com/r/zlibrary/comments/z2qhwa/workflows_how_to_connect_to_zlib_via_browser/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)
-
-\------------------------------------------------------------------------------------------------------
+### TGBOT
 
 **How to access Telegram bot:**
 
@@ -55,15 +31,27 @@ If you cannot access, use [https://annas-archive.org/](https://annas-archive.org
 
 [https://t.me/zlib\_basic\_bot](https://t.me/zlib_basic_bot)
 
-\------------------------------------------------------------------------------------------------------
+
+
+### APP
 
 **How to access the App (available on Android only):**
 
 Follow instructions on this comment: [https://www.reddit.com/r/zlibrary/comments/zb8ske/why\_has\_no\_one\_mentioned\_zlibs\_fully\_functioning/iyq205j/?utm\_source=share&utm\_medium=ios\_app&utm\_name=iossmf&context=3](https://www.reddit.com/r/zlibrary/comments/zb8ske/why_has_no_one_mentioned_zlibs_fully_functioning/iyq205j/?utm_source=share&utm_medium=ios_app&utm_name=iossmf&context=3)
 
-\------------------------------------------------------------------------------------------------------
 
-How to send books to Kindle:
+### OTHER
+
+
+
+**How to access zLibrary and Telegram bot through iOS:**
+
+[https://www.reddit.com/r/zlibrary/comments/ym6zii/workaround\_for\_ios\_users\_bonus\_for\_telegram\_users/](https://www.reddit.com/r/zlibrary/comments/ym6zii/workaround_for_ios_users_bonus_for_telegram_users/)
+
+[https://t.me/zlib\_basic\_bot](https://t.me/zlib_basic_bot)
+
+
+**How to send books to Kindle:**
 
 Part 1 - on your Amazon account:
 
@@ -87,7 +75,7 @@ Part 2: on your iPhone
 
   
 ## Folk
-\------------------------------------------------------------------------------------------------------
+
 
 **Approved and recommended alternatives:**
 
@@ -104,11 +92,6 @@ Part 2: on your iPhone
 [https://oceanofpdf.com/](https://oceanofpdf.com/) (least fave but still okay to use)
 
 [https://cse.google.com/cse?cx=c46414ccb6a943e39](https://cse.google.com/cse?cx=c46414ccb6a943e39) (use with caution, but it's a search engine that shows you a lot of websites where you can download your book from)
-
-\------------------------------------------------------------------------------------------------------
-
-If you have any technical questions please comment below :)
-
 
 ### REFERENCE
 
