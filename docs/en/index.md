@@ -1,6 +1,7 @@
 ---
 hide:
   - navigation
+title: zlibrary download tutorial
 ---
 
 !!! warning
