@@ -1,8 +1,13 @@
+---
+hide:
+  - navigation
+---
+
 !!! warning
 
     **These sites are not to be trusted:** zlib.is,zlib.to,zlibrary.to,zlibrary.is,z-lib.is,z-lib.to
 
-    If you’ve donated to any of the sites above, call the bank to request a chargeback as they use Stripe for processi
+    If you’ve donated to any of the sites above, call the bank to request a chargeback as they use Stripe for processing
 
 
 ##  OFFICIAL

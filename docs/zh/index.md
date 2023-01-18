@@ -1,3 +1,18 @@
+---
+hide:
+  - navigation
+---
+
+
+
+!!! warning
+
+    **这些不是官方网站:** zlib.is,zlib.to,zlibrary.to,zlibrary.is,z-lib.is,z-lib.to
+
+    如果您已向上述任何一个网站捐款，请致电银行要求退款，因为他们使用 stripe 进行处理
+
+
+
 ## 说明
 
 - 目前官方有 TGBOT、TOR/I2P、APP 三种渠道，其中 TGBOT 只能下载 50M 以下书籍，其他渠道没有限制。
