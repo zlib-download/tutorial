@@ -2,8 +2,6 @@ site_name: zlibrary download tutorial
 theme:
   name: material
   language: en
-  features:
-    - toc.integrate
   palette:
     primary: red
 
