@@ -4,7 +4,16 @@ hide:
 title: zlibrary 下载教程
 ---
 
+## 太长不看版本
 
+1. [打开搜索界面](https://search.zhelper.net/?[{%22name%22:%22zlib.app%22,%22url%22:%22https://api.zlib.app%22,%22type%22:%22full%22,%22sensitive%22:false,%22detail%22:false,%22download%22:%22https://d.zlib.app/download/%22}])
+2. 搜索书籍，点击书籍名称，弹出窗口中点击下载。
+3. 弹出以下页面，选择红框中任意一个按钮即可下载。
+
+![](/pics/zlibapp.png) 
+
+
+-------------------------------------------
 
 !!! warning
 
@@ -20,6 +29,7 @@ title: zlibrary 下载教程
 - 民间，基于之前 Annas-archive 流出来的资源，涌现出一批离线版书库，资源同步到 22 年 10 月，一般需要通过 IPFS 下载。
 - 此外，民间还有 zhelper 反编译 APP 得到的搜索/下载接口 zlib.app。此接口和 zlibrary 官方在线库同步，下载也是走 zlibrary 服务器。
 - **推荐有能力的尽量走官方网站，其次 zlib.app 在线库，最后用离线库**
+
 
 ### 官方使用教程——一图流 
 
