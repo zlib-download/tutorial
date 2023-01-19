@@ -4,6 +4,18 @@ hide:
 title: zlibrary download tutorial
 ---
 
+## The simplest version
+
+1. [Open the search interface](https://search.zhelper.net/?[{%22name%22:%22zlib.app%22,%22url%22:%22https://api.zlib.app%22,%22type%22:%22full%22,%22sensitive%22:false,%22detail%22:false,%22download%22:%22https://d.zlib.app/download/%22}])
+2. Search for books, click on the book name, and click download in the pop-up window.
+3. on following page select any button in the red box to download.
+
+
+![](/pics/zlibapp.png) 
+
+
+-------------------------------------------
+
 !!! warning
 
     **These sites are not to be trusted:** zlib.is,zlib.to,zlibrary.to,zlibrary.is,z-lib.is,z-lib.to
