@@ -46,7 +46,7 @@ title: zlibrary 下载教程
 
 50M 以下，每个账号限量 20 本每天。
 
-目前最新地址：[https://t.me/zlib\_basic\_bot](https://t.me/zlib_basic_bot)
+目前最新地址：[https://t.me/zlib_basid_bot](https://t.me/zlib_basid_bot) (2023/1/20)
 
 ### 2. I2P/TOR /需🪜/需注册/限制下载量 
 

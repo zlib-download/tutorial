@@ -47,7 +47,7 @@ If you cannot access, use [https://annas-archive.org/](https://annas-archive.org
 
 [https://www.reddit.com/r/zlibrary/comments/zsr9j6/how\_to\_connect\_your\_account\_to\_telegram\_a\_visual/](https://www.reddit.com/r/zlibrary/comments/zsr9j6/how_to_connect_your_account_to_telegram_a_visual/)
 
-[https://t.me/zlib\_basic\_bot](https://t.me/zlib_basic_bot)
+[https://t.me/zlib_basid_bot](https://t.me/zlib_basid_bot) (2023/1/20)
 
 
 
@@ -66,7 +66,7 @@ Follow instructions on this comment: [https://www.reddit.com/r/zlibrary/comments
 
 [https://www.reddit.com/r/zlibrary/comments/ym6zii/workaround\_for\_ios\_users\_bonus\_for\_telegram\_users/](https://www.reddit.com/r/zlibrary/comments/ym6zii/workaround_for_ios_users_bonus_for_telegram_users/)
 
-[https://t.me/zlib\_basic\_bot](https://t.me/zlib_basic_bot)
+[https://t.me/zlib_basid_bot](https://t.me/zlib_basid_bot) (2023/1/20)
 
 
 **How to send books to Kindle:**
